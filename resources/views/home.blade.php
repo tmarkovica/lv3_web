@@ -15,6 +15,12 @@
                     @endif
 
                     {{ __('You are logged in!') }}
+
+                    <br>
+                    <a href="/new-project">Create New Project</a>
+                    <br>
+                    <a href="/myprojects">My Project</a>
+                    <br>
                 </div>
             </div>
         </div>
