@@ -64,3 +64,34 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# MYNOTES
+
+laravel new ime_projekta
+
+composer install 
+dodati ovo ako sere: --ignore-platform-req=ext-fileinfo
+
+odkomentiraj u .ini fileinfo
+
+composer update --no-scripts
+
+composer require laravel/ui
+
+php artisan ui bootstrap
+
+php artisan ui bootstrap --auth
+
+npm install
+
+npm run dev
+
+php artisan serve
+
+https://www.youtube.com/watch?v=vrJUMNXgppw&ab_channel=TechWebDocs
+
+php artisan migrate
+
+Vite manifest not found
+https://www.youtube.com/watch?v=iIe8-ibTnfs&ab_channel=EasySolution
